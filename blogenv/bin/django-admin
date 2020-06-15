@@ -1,4 +1,4 @@
-#!/home/avj/Documents/Django/blog/blogenv/bin/python
+#!/home/avj/Documents/Django/BlogApp/blogenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

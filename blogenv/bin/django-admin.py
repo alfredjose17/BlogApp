@@ -1,4 +1,4 @@
-#!/home/avj/Documents/Django/blog/blogenv/bin/python
+#!/home/avj/Documents/Django/BlogApp/blogenv/bin/python
 from django.core import management
 
 if __name__ == "__main__":
